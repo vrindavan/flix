@@ -1,2 +1,1 @@
-# flix
-Responsive HTML-CSS-JavaScript Movie Web App.
+# Responsive HTML-CSS-JavaScript Movie Web App.
